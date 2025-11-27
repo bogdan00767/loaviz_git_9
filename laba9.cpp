@@ -1,4 +1,4 @@
-// обход в ширину
+// обход в ширину (поиск расстояний)
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
